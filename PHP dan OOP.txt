@@ -1,0 +1,20 @@
+Pengertian OOP
+    Pemograman OOP merupakan pendekatan yang melihat sebuah permasalahan dan sistem pada objek. Memandang sistem berorientasi 
+    objek yang dikembangkan, sebagai kumpulan objek yang berkorespondensi dengan objek pada dunia nyata. Sistem yang berorientasi 
+    objek ini, memiliki fungsi serta data- data dikelompokkan dalam sebuah komponen yang dibungkus (enkasulapsi) kedalam bentuk objek, 
+    sehingga setiap objek dapat mewariskan sifatnya atau setiap objek yang berbeda. Kumpulan dari objek-objek itu akan berinteraksi satu 
+    sama lainnya untuk menghasikan output yang diinginkan. OOP pada PHP adalah yang yang wajib untuk kita pelajari saat kita ingin membuat 
+    sebuah Program dengan Clear Code
+
+Apa itu Object ?
+    Sederhananya, sebuah obyek adalah kumpulan dari variabel dan fungsi yang dibungkus menjadi satu entitas. Entitas tersebut
+    dapat berupa variabel biasa. Sebuah obyek diciptakan melalui sebuah kelas atau dengan istilah instance of class. Obyek 
+    memiliki 2 elemen utama:
+    1. Attributes atau Properties: Yaitu nilai-nilai yang tersimpan dalam objek tersebut dan secara langsung maupun tidak langsung 
+    menentukan karakteristik dari obyek
+    2. Method: Yaitu suatu aksi yang akan dijalankan atau dikerjakan oleh obyek 
+
+Apa itu Class?
+    Class dapat didefinisikan sebagai struktur data atau cetak biru dari suatu obyek. Lebih jelasnya adalah sebuah bentuk dasar
+    atau blueprint yang mendefinisikan variabel, method umum pada semua obyek. Obyek sendiri adalah kumpulan variabel dan fungsi 
+    yang dihasilkan dari template khusus atau disebut class
